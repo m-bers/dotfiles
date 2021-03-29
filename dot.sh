@@ -7,4 +7,3 @@ dot config --local status.showUntrackedFiles no
 dot switch dot
 dot checkout $HOME
 dot submodule update --init --recursive
-source ~/.zshrc

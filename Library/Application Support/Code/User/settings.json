@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.rendererType": "dom",
+    "customizeUI.activityBar": "wide",
+    "customizeUI.titleBar": "inline",
+    "window.titleBarStyle": "native",
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+}

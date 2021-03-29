@@ -1,4 +1,4 @@
 # Josh's dotfiles
 
 ## Installation:
-curl https://git.io/JYCZ0 | zsh
+curl https://raw.githubusercontent.com/m-bers/dotfiles/main/dot.sh | zsh && source ~/.zshrc
